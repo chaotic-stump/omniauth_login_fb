@@ -1,0 +1,4 @@
+OMNIAUTH_ID_FB: 'petfinder oauth key'
+OMNIAUTH_SECRET_FB: 'petfinder oauth secret'
+
+# Get Facebook ID and SECRET from developers.facebook.com
