@@ -23,7 +23,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Devise
 gem 'devise'
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '~> 5.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
